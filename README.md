@@ -15,11 +15,13 @@ Codes & details will be released soon.
 
 ## Citation
 ```bibtex
-@misc{yang2023synbody,
-  title={SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling}, 
-  author={Yang, Zhitao and Cai, Zhongang and Mei, Haiyi and Liu, Shuai and Chen, Zhaoxi and Xiao, Weiye and Wei, Yukun and Qing, Zhongfei and Wei, Chen and Dai, Bo and Wu, Wayne and Qian, Chen and Lin, Dahua and Liu, Ziwei and Yang, Lei},
-  year={2023},
-  journal={arXiv preprint arXiv:2303.17368},
+@InProceedings{yang2023synbody,
+    author    = {Yang, Zhitao and Cai, Zhongang and Mei, Haiyi and Liu, Shuai and Chen, Zhaoxi and Xiao, Weiye and Wei, Yukun and Qing, Zhongfei and Wei, Chen and Dai, Bo and Wu, Wayne and Qian, Chen and Lin, Dahua and Liu, Ziwei and Yang, Lei},
+    title     = {SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {20282-20292}
 }
 ```
 
